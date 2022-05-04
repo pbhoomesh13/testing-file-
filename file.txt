@@ -1,0 +1,5 @@
+mcd burger $20
+
+pizzajoint cheese pizza $15
+
+freezeland frenchfries $25
